@@ -79,7 +79,7 @@ model: openai-gpt4o
 temperature: 0.5
 top_p: 0.5
 ```
-<img width="439" alt="image" src="https://github.com/user-attachments/assets/97233906-f243-4dfd-961e-75fee2dac394" />
+![2-hop Q](https://github.com/Champagne-paki/GraphRAG-Comparison/blob/main/2-hop%20Q.png)
 
 ## 2-hop Question
 Q: Who are the current chancellors from where Nelson Mandela got his alma mater from?
@@ -181,6 +181,6 @@ model: openai-gpt4o
 temperature: 0.5
 top_p: 0.5
 ```
-<img width="428" alt="image" src="https://github.com/user-attachments/assets/1b3b0d92-33a2-408a-99ea-caa19e42e7e3" />
+![4-hop Q](https://github.com/Champagne-paki/GraphRAG-Comparison/blob/main/4-hop%20Q.png)
 
 
