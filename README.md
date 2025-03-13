@@ -3,7 +3,7 @@ This project briefly showcases how smaller LLMs combined with knowledge graphs c
 ## Comparison
 Complex multi-hop questions are presented to ChatGPT o1, 4o and DeepSeek R1 against Mistral Large querying a public Knowledge Graph sourced from Wikipedia (DBpedia)
 ## KG of Nelson Mandela (Simplified)
-![Nelson Mandela Knowledge Graph](https://github.com/user-attachments/assets/4479d6e5-2417-4391-885f-208a66b7179b)
+![Nelson Mandela Knowledge Graph](https://github.com/Champagne-paki/GraphRAG-Comparison/blob/main/Nelson%20Mandela%20Knowledge%20Graph.png)
 ## 4-hop Question 
 Q: Who are the spouses of the current chancellors from where Nelson Mandela got his alma mater from and when were they born?
 
